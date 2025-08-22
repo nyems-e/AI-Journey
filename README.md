@@ -1,2 +1,2 @@
--Everything AI
+- Everything AI
 
